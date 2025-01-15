@@ -72,10 +72,10 @@ Todos os três arquivos compartilham as seguintes funcionalidades principais:
 
 ## Testes Unitários
 
-O arquivo de testes unitários criado (`test_manager_functions.py`) abrange as principais funções dos três arquivos e pode ser executado com o seguinte comando:
+O arquivo de testes unitários criado (`testeunitario.py`) abrange as principais funções dos três arquivos e pode ser executado com o seguinte comando:
 
 ```bash
-python test_manager_functions.py
+python testeunitario.py
 ```
 
 ## Contato
